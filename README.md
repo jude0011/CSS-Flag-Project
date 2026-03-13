@@ -57,7 +57,7 @@ Some example flags that can be recreated in this project include:
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/css-flag-design.git
+git clone https://github.com/jude0011/css-flag-design.git
 ```
 
 2. Open the project folder
